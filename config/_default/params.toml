@@ -21,7 +21,7 @@ url = "https://github.com/Algoru"
 [[socialIcons]]
 icon = "fas fa-file-pdf"
 title = "Curriculum Vitae"
-url = "https://astagg.me/files/alvaro_stagg.pdf"
+url = "/alvaro_stagg_cv.pdf"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
