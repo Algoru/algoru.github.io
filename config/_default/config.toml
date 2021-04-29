@@ -10,4 +10,5 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
+publishDir = "docs"
 
