@@ -4,7 +4,7 @@ description = """
 I like computers, animals and physical activity.
 From time to time I have the opportunity to make people's lives better.
 """
-profilePicture = "https://astagg.me/images/me.jpg"
+profilePicture = "/me.jpg"
 displayMode = "dark"
 doNotLoadAnimations = true
 
