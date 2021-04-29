@@ -1,0 +1,13 @@
+baseURL = "https://astagg.me/"
+languageCode = "es-co"
+title = "Mad Engineer"
+theme = "anatole"
+enableEmoji = true
+enableRobotsTXT = true
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+

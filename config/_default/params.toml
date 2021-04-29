@@ -1,0 +1,29 @@
+title = "I'm Álvaro Stagg"
+author = "Álvaro Stagg"
+description = """
+I like computers, animals and physical activity.
+From time to time I have the opportunity to make people's lives better.
+"""
+profilePicture = "https://astagg.me/images/me.jpg"
+displayMode = "dark"
+doNotLoadAnimations = true
+
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/alvaro-stagg-ram%C3%ADrez-864a35b8/"
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/Algoru"
+
+[[socialIcons]]
+icon = "fas fa-file-pdf"
+title = "Curriculum Vitae"
+url = "https://astagg.me/files/alvaro_stagg.pdf"
+
+[[socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:alvarostagg@protonmail.com"
