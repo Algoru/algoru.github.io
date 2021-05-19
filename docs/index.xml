@@ -6,14 +6,15 @@
     <description>Recent content on Mad Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-co</language>
-    <lastBuildDate>Wed, 28 Apr 2021 19:10:45 -0500</lastBuildDate><atom:link href="https://astagg.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 May 2021 06:58:56 -0500</lastBuildDate><atom:link href="https://astagg.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>¿Y Quién Piensa en Nosotros?</title>
-      <link>https://astagg.me/posts/quien-piensa-en-nosotros/</link>
-      <pubDate>Wed, 28 Apr 2021 19:10:45 -0500</pubDate>
+      <title>La Manera Go: Variables</title>
+      <link>https://astagg.me/posts/go-way-variables/</link>
+      <pubDate>Wed, 19 May 2021 06:58:56 -0500</pubDate>
       
-      <guid>https://astagg.me/posts/quien-piensa-en-nosotros/</guid>
-      <description>Durante estos tiempos de pandemia nos repiten una y otra vez que debemos cuidarnos, pensar en los demás y a ser pacientes; en especial a los jóvenes, los que hemos demostrado ser los más rebeldes. Nos dicen una y otra vez que por nuestra &amp;ldquo;indisciplina&amp;rdquo;, las personas mayores mueren, que por nuestro deseo de tener una vida social normal a la que ninguna otra generación se le negó, ponemos en riesgo a nuestros seres queridos.</description>
+      <guid>https://astagg.me/posts/go-way-variables/</guid>
+      <description>En este capítulo, revisaremos algunas consideraciones y recomendaciones hechas por el propio equipo de Google sobre cómo llamar variables, qué operadores utilizar y algunas buenas prácticas.
+Alcance de una Variable Lo primero que se debe pensar cuando se está creando una variable es su alcance. ¿Es una variable global o local al paquete?, ¿Es una variable global o local al archivo?, ¿Es una variable global o local a una función?. Sabemos que en Go, el alcance de una variable y/o función se define a través de su primer carácter; si el primer carácter está en mayúscula, la variable o función se exporta fuera del paquete; de lo contrario, se mantiene &amp;ldquo;privada&amp;rdquo; y solo los archivos dentro del mismo paquete podrán acceder a esta variable y/o función.</description>
     </item>
     
   </channel>
